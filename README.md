@@ -119,10 +119,6 @@ yarn test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🎨 UI/UX Design
 
 The application follows a clean, modern design with:
@@ -132,6 +128,18 @@ The application follows a clean, modern design with:
 - **Layout**: Clean, spacious grid layout with consistent padding and margins
 - **Components**: Card-based UI elements with subtle shadows and rounded corners
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](#license-text) file for details.
+
+## 📞 Contact
+
+For questions, suggestions, or support, contact:
+
+- **Project Lead**: Ric S Kolluri
+- **Email**: ricskolluri@gmail.com
+- **Developed for**: DAI Companies as a Test
+
 ## 🙏 Acknowledgements
 
 - [React](https://reactjs.org/)
@@ -139,3 +147,29 @@ The application follows a clean, modern design with:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide Icons](https://lucide.dev/)
 - [Headless UI](https://headlessui.dev/)
+
+---
+
+## License Text
+
+MIT License
+
+Copyright (c) 2025 Ric S Kolluri
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

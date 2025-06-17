@@ -5,7 +5,7 @@
 
 ## 🚗 Live Demo
 
-Check out the live demo: [https://bejewelled-salmiakki-0bfd22.netlify.app](https://bejewelled-salmiakki-0bfd22.netlify.app)
+Check out the live demo: [https://spot-pms.netlify.app](https://spot-pms.netlify.app)
 
 ## 📋 Overview
 

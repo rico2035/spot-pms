@@ -1,7 +1,6 @@
 # Spot - Parking Management System
 
 ![Spot PMS Logo](https://img.shields.io/badge/Spot-Parking%20Management-FD593E)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0bfd22/deploy-status)](https://bejewelled-salmiakki-0bfd22.netlify.app)
 
 ## 🚗 Live Demo
 
